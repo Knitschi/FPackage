@@ -1,8 +1,8 @@
-#include <DPackage/d.h>
+#include <FPackage/f.h>
 
-namespace d
+namespace f
 {
-    void dFunction()
+    void fFunction()
     {
         
     }
