@@ -6,6 +6,6 @@ namespace f
 {
     void function()
     {
-        std::cout << "FPackage function()";
+        std::cout << "FPackage function()" << "\n";;
     }
 }
