@@ -23,10 +23,12 @@ set( archiveDevPackageOptions
 
 ############################################## Add Package #################################
 cpfAddCppPackage( 
-	PACKAGE_NAMESPACE		f
 	TYPE					LIB
+	OWNER 					Knitschi
+	CPF_PROJECT_WEBPAGE_URL "https://github.com/Knitschi/BCPFTestProject"
 	BRIEF_DESCRIPTION		${briefDescription}
 	LONG_DESCRIPTION		${longDescription}
+	PACKAGE_NAMESPACE		f
 	PUBLIC_HEADER			${PACKAGE_PUBLIC_HEADER}
 	PRODUCTION_FILES		${PACKAGE_PRODUCTION_FILES}
 	DISTRIBUTION_PACKAGES 	${archiveDevPackageOptions}
