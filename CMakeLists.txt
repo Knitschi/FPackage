@@ -27,3 +27,5 @@ cpfAddCppPackageComponent(
 	PRODUCTION_FILES		${PACKAGE_PRODUCTION_FILES}
 	ENABLE_PACKAGE_DOX_FILE_GENERATION TRUE
 )
+
+finalizePackageProject()
