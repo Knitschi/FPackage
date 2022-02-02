@@ -6,3 +6,4 @@ namespace f
 {
 	FPACKAGE_EXPORT void function();
 }
+
