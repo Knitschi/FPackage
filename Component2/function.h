@@ -6,6 +6,6 @@ namespace comp2
 {
 	inline void function()
 	{
-		std::cout << "FPackage/Component1 function()\n";
+		std::cout << "FPackage/Component2 function()\n";
 	}
 }
