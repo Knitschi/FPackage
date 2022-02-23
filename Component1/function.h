@@ -1,8 +1,8 @@
 #pragma once
 
-#include <FPackage/fpackage_export.h>
+#include <Component1/component1_export.h>
 
 namespace f
 {
-	FPACKAGE_EXPORT void function();
+	COMPONENT1_EXPORT void function();
 }

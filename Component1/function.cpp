@@ -1,12 +1,10 @@
-#include <FPackage/function.h>
+#include <Component1/function.h>
 #include <iostream>
 
-namespace f
+namespace comp1
 {
 	void function()
 	{
-		std::cout << "FPackage function()"
-				  << "\n";
-		;
+		std::cout << "FPackage/Component1 function()\n";
 	}
 }

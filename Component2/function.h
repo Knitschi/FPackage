@@ -2,11 +2,10 @@
 
 #include <iostream>
 
-namespace g
+namespace comp2
 {
 	inline void function()
 	{
-		std::cout << "GPackage function()"
-				  << "\n";
+		std::cout << "FPackage/Component1 function()\n";
 	}
 }
