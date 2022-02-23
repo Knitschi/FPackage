@@ -2,7 +2,7 @@
 
 #include <Component1/component1_export.h>
 
-namespace f
+namespace comp1
 {
 	COMPONENT1_EXPORT void function();
 }

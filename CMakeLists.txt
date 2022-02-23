@@ -5,7 +5,7 @@ cpfPackageProject(
     LONG_DESCRIPTION ""
     OWNER Knitschi
     WEBPAGE_URL "https://github.com/Knitschi/FPackage"
-    TARGET_NAMESPACE F
+    TARGET_NAMESPACE f
     COMPONENTS
         Component1
         Component2
